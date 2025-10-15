@@ -1,0 +1,105 @@
+---
+title: "notes_for_me"
+output: html_document
+---
+
+Sense: a mental concept of a words meaning 
+
+Reference: the set of things in the world that the word refers to
+
+- useful for categorizing new items we come across
+
+---
+
+For each pair of sentences, does the first sentence **(a)** entail the second sentence **(b)**? 
+
+--
+
+**a.** Charles III is the King of the United Kingdom.
+
+**b.** Queen Elizabeth II was Charles's mother.
+
+-  No. The truth of (b) is not dependent on the truth of (a).
+
+--
+
+**a.** I am very very very very very tired.
+
+**b.** I am tired.
+
+- **Yes, entailment.** There is no universe where one is not tired when one is very(×7) tired.
+
+--
+
+**a.** Chicken Little believes the sky is falling.
+
+**b.** The sky is falling.
+
+- No. Even if the sky is not falling, Chicken Little might still believe it.
+
+
+--
+
+**a.** Gible is a silly tabby cat.
+
+**b.** Gible is a cat.
+
+- **Yes, entailment.**
+
+---
+
+# Practice: entailment
+
+**a.** Bob and Linda live above a restaurant on Ocean Avenue.
+
+**b.** Bob lives above a restaurant on Ocean Avenue.
+
+- **Yes, entailment.**
+
+--
+
+**a.** The kids trick-or-treated on Halloween.
+
+**b.** The kids trick-or-treated in scary costumes on Halloween.
+
+-  No. If (i) is true, then the costumes need not be scary.
+
+
+--
+
+**a.** Jake stopped smoking.
+
+**b.** Jake used to smoke.
+
+- **Yes, entailment.**
+
+--
+
+**a.** Keng's car still has Wisconsin license plates on it.
+
+**b.** Keng has a car.
+
+- **Yes, entailment.**
+
+--
+
+
+**Think of three sentences that are entailed by each of these sentences:**
+
+1. The spotted lanternfly is an insect that has spread invasively to New Jersey and can cause damage to forests and fruit crops.
+
+  - The spotted lanternfly has spread to New Jersey; The spotted lanternfly is an insect; The spotted lanternfly can cause damage to fruit crops; etc
+
+2. The starship Enterprise explored strange new worlds, sought out new life and new civilizations, and boldly went where no one had gone before.
+
+  - Enterprise is a starship; Enterprise explored some worlds; Enterprise sought out new life; etc
+  
+3. Controversially, DeLa chose to eliminate herself from the competition after winning the lip-sync battle, which allowed Trixie, Kennedy, and Shangela to all stay in the competition.
+
+  - DeLa won the lip-sinc battle; Trixie stayed in the competition; DeLa eliminating herself was controversial; etc.
+  
+4. Mario defeated Bowser, but then all he found in the dungeon was Toad, who told him that the princess was in another castle.
+
+  - The princess was not in the dungeon; Mario defeated Bowser; Toad said that the princess
+was in another castle; etc.
+  
