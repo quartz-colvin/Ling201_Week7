@@ -1,5 +1,5 @@
 ---
-title: "Week 7: Semantics"
+title: "Week 7: Semantics I"
 subtitle: "Recitation for LING 201:02"
 author: "Quartz Colvin (they/them)"
 institute: "Rutgers University"
@@ -294,6 +294,10 @@ class: middle, center
 ### Homework 
 
 - NONE UNTIL OCT 26!
+
+### Mid-course survey
+
+- Please fill out this [survey](https://sirs.rutgers.edu/blue) before **Oct 19**!
 
 
 
