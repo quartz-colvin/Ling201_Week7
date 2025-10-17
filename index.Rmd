@@ -25,8 +25,28 @@ class: middle, center
 # Review!
 
 ---
+# Review from lecture 
+
+## Different levels of meaning in language 
+
+**Literal meaning**
+
+- <u>semantics</u> studies literal meaning in language 
+
+**Implied meaning**
+
+- <u>pragmatics</u> studies implied meaning in language 
+
+**Social meaning**
+
+- <u>sociolinguistics</u> and <u>linguistic anthropology</u> study social meaning 
+
+
+---
 
 # Review from lecture 
+
+### Discuss in small-ish groups.
 
 - lexical semantics vs. compositional semantics
 
@@ -46,19 +66,19 @@ class: middle, center
 
 
 
-
-
 ---
 
 class: middle, center
 
-# Semantic relations
+# Semantic relations (review still)
 
 ---
 
 # Semantic relations 
 
-- **synonym:** words that have the same reference / refer to the same set of things in the world (*drinks* and *beverages*)
+- **synonym:** words that have the same reference / refer to the same set of things in the world 
+
+  - *drinks* and *beverages*
 
 - **hypernym:** words whose reference is a _superset_ of another words reference
 
@@ -74,17 +94,25 @@ class: middle, center
 
 # Semantic relations
 
-- **antonym:** words that have opposite meanings
+**antonym:** words that have opposite meanings
 
 --
 
-  - **Complementary pairs:** items that can't be in both categories (*alive* vs. *dead*)
+- <u>Complementary pairs:</u> items that can't be in both categories 
+
+  - *alive* vs. *dead*
   
-  - **Gradable pairs:** opposite ends of a scale (*young* vs. *old*)
+- <u>Gradable pairs:</u> opposite ends of a scale 
+
+  - *young* vs. *old*
   
-  - **Reverses:** opposite directions (*up* vs. *down*)
+- <u>Reverses:</u> opposite directions 
+
+  - *up* vs. *down*
   
-  - **Converses:** same action, different perspective (*buy* vs. *sell*)
+- <u>Converses:</u> same action, different perspective 
+
+  - *buy* vs. *sell*
 
 ---
 
@@ -112,11 +140,29 @@ Are the following word pairs *synonyms, antonyms,* or a *hypernym-hyponym* pair?
 
 class: middle, center
 
-# Entailment:
+# ENTAILMENT
 
-## sentence **p** entails sentence **q** if and only if **q** is true whenever **p** is true.
+## sentence **p** entails sentence **q** if and only if **q** is *true* whenever **p** is *true*
 
-### "whenever" there is a possible world where the sentence is true
+### "whenever" there is a possible world where the sentence **p** is *true*, while **q** is *false*
+
+---
+
+class: middle, center
+
+# ENTAILMENT: example
+
+--
+
+### <u>Quartz is a linguistics student</u>
+
+# entails  
+
+### <u>Quartz is a student</u>. 
+
+--
+
+### if Quartz is **NOT** a <u>student</u>, then it's impossible for Quartz to be a <u>linguistics student</u>
 
 ---
 
@@ -153,6 +199,21 @@ For each pair of sentences, does the first sentence **(a)** entail the second se
 **a.** Gible is a silly tabby cat.
 
 **b.** Gible is a cat.
+
+---
+
+# Gible
+
+.pull-left[
+```{r, out.height="100%", out.width="100%", echo=FALSE}
+knitr::include_graphics("./images/gible.jpg")
+```
+]
+
+
+.pull-right[
+- **obviously, this guy is silly**
+]
 
 ---
 
@@ -199,6 +260,28 @@ For each pair of sentences, does the first sentence **(a)** entail the second se
 3. Controversially, DeLa chose to eliminate herself from the competition after winning the lip-sync battle, which allowed Trixie, Kennedy, and Shangela to all stay in the competition.
 
 4. Mario defeated Bowser, but then all he found in the dungeon was Toad, who told him that the princess was in another castle.
+
+---
+
+class: middle, center
+
+# Mutual entailment 
+
+### **p** entails **q** <u>AND</u> **q** entails **p**.
+
+---
+
+# Mutual entailment 
+
+**p:** Merlin is immortal.
+
+**q:** Merlin is incapable of dying.
+
+--
+
+**p:** He is a bachelor.
+
+**q:** He is an unmarried man.
 
 ---
 
